@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:himanihassija@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/himanihassija">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/himani-hassija-116b46324/">💼 LinkedIn</a> ·
   <a href="https://github.com/himanihassija">🐙 GitHub</a>
 </p>
 

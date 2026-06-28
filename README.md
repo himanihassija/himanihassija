@@ -15,7 +15,7 @@
 
 ## About me
 
-I'm a CS + Data Science dual-degree student passionate about **agentic AI, automation, and systems that think**. I build things that cut months of work into minutes, from multi-agent simulations of 100 citizens to fully automated B2B outreach pipelines with zero manual work.
+I'm a CS + Data Science dual-degree student passionate about **agentic AI, automation, and systems that think**. I build things that cut months of work into minutes, from multi-agent simulations of 1000 citizens to fully automated B2B outreach pipelines with zero manual work.
 
 Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines that autonomously scrape, qualify, and reach out to thousands of leads. Selected for the **GWY 2.0 Fellowship** (1 of 11 from 1,000+ applicants).
 

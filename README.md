@@ -54,16 +54,6 @@ Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines th
 
 ---
 
-## Certifications
-
-- AI Fluency: Framework & Foundations — **Anthropic**
-- Agentic AI & Cloud Computing Workshop — **Microsoft**
-- Gen AI Data Analytics Job Simulation — **Tata Group**
-- Data Analytics Job Simulation — **Deloitte**
-- Tableau for Data Science — Scaler
-
----
-
 <p align="center">
   <i>Always open to collaborating on AI/automation projects or interesting open source work.</i>
 </p>

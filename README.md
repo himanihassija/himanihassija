@@ -42,10 +42,10 @@ Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines th
 
 ## Currently
 
-- 🔧 Interning at **Growzle** building AI-powered GTM automation pipelines
-- 📚 Studying CS @ MDU + Data Science @ IIT Madras (simultaneously)
-- 🌐 **Community Operations Coordinator** @ GDG Cloud New Delhi & GDG New Delhi
-- 🤝 Open source contributor @ Open Source Connect
+- Interning at **Growzle** building AI-powered GTM automation pipelines
+- Studying CS @ MDU + Data Science @ IIT Madras (simultaneously)
+- Community Operations Coordinator @ GDG Cloud New Delhi & GDG New Delhi
+- Open source contributor @ Open Source Connect
 
 ---
 

@@ -23,11 +23,11 @@ Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines th
 
 | Project | What it does |
 |---|---|
-| [🏙️ Delhi's Digital Twin](https://github.com/himanihassija/delhi-digital-twin) | Multi-agent AI simulating 1000 citizen agents across 8 archetypes to model transport policy impact in <60s. |
-| [🔍 Advanced RAG Pipeline](https://github.com/himanihassija/advanced-rag-bigquery-hyde-stepback) | RAG pipeline with HyDE & Step-Back prompting, BigQuery Vector Search, and Gemini on Vertex AI. |
-| [🤖 Gemini Browser Agent](https://github.com/himanihassija/gemini-browser-ai-agent) | Autonomous browser agent powered by Gemini that navigates and reasons over live web content. |
-| [📚 AI Course Generation System](https://github.com/himanihassija) | Multi-agent system (research → evaluation → content agents) that autonomously generates structured courses on any topic. |
-| [📡 B2B Job Signal Scraper](https://github.com/himanihassija/B2B-Job-Signal-Scraper) | Scrapes 40+ job titles across LinkedIn, Adzuna & Reed to turn hiring signals into ready-to-work B2B sales leads, with dedup and optional Google Sheets sync. |
+| [Delhi's Digital Twin](https://github.com/himanihassija/delhi-digital-twin) | Multi-agent AI simulating 1000 citizen agents across 8 archetypes to model transport policy impact in <60s. |
+| [Advanced RAG Pipeline](https://github.com/himanihassija/advanced-rag-bigquery-hyde-stepback) | RAG pipeline with HyDE & Step-Back prompting, BigQuery Vector Search, and Gemini on Vertex AI. |
+| [Gemini Browser Agent](https://github.com/himanihassija/gemini-browser-ai-agent) | Autonomous browser agent powered by Gemini that navigates and reasons over live web content. |
+| [AI Course Generation System](https://github.com/himanihassija) | Multi-agent system (research → evaluation → content agents) that autonomously generates structured courses on any topic. |
+| [B2B Job Signal Scraper](https://github.com/himanihassija/B2B-Job-Signal-Scraper) | Scrapes 40+ job titles across LinkedIn, Adzuna & Reed to turn hiring signals into ready-to-work B2B sales leads, with dedup and optional Google Sheets sync. |
 
 ---
 

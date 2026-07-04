@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Himani Hassija 👋</h1>
+<h1 align="center">Hi, I'm Himani Hassija</h1>
 <p align="center">
   <b>CS + Data Science student building AI agents, RAG pipelines, and automation systems</b><br/>
   B.Tech CSE @ MDU · B.S. Data Science @ IIT Madras · Delhi, India

@@ -1,9 +1,9 @@
 # Hi, I'm Himani Hassija
 
-**CS + Data Science student building AI agents, RAG pipelines, and automation systems**
+**CS + Data Science student working at the intersection of agentic AI, automation, and governance**
 B.Tech CSE @ MDU · B.S. Data Science @ IIT Madras · Delhi, India
 
-📧 himanihassija@gmail.com · [💼 LinkedIn](https://www.linkedin.com/in/himani-hassija-116b46324/)
+📧 himanihassija@gmail.com · [💼 LinkedIn](https://www.linkedin.com/in/himani-hassija-116b46324/) · [🐙 GitHub](https://github.com/himanihassija)
 
 ---
 
@@ -19,13 +19,13 @@ Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines th
 
 | Project                                                                                       | What it does                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Delhi's Digital Twin](https://github.com/himanihassija/delhi-digital-twin)                   | Multi-agent urban simulation modeling 1,000 citizen agents across 8 behavioral archetypes — compresses transport policy impact studies that normally take **18–24 months** into results in **under 60 seconds**. Top 29 teams nationally. |
+| [Delhi's Digital Twin](https://github.com/himanihassija/delhi-digital-twin)                   | Multi-agent urban simulation modeling 1,000 citizen agents across 8 behavioral archetypes — compresses transport policy impact studies that normally take **18–24 months** into results in **under 60 seconds**. |
 | [A2A Supply Chain Agents](https://github.com/himanihassija/A2A-supply-chain-agents)           | Fully autonomous, cloud-free multi-agent supply chain system built on Google's A2A protocol — a Vision Agent verifies inventory counts via live code execution while a Supplier Agent runs vector similarity search over live stock, and the two dynamically discover and call each other through agent cards. Runs entirely on-device with Gemini + PostgreSQL/pgvector. |
-| [AI Research & Outreach Automation](https://github.com/himanihassija/ai-research-and-outreach-automation) | End-to-end n8n workflow that turns a company name into a fully researched, personalized outreach message — automating multi-source company research, founder profiling, and social enrichment, then syncing everything straight to Google Sheets. |
+| [AI Research & Outreach Automation](https://github.com/himanihassija/ai-research-and-outreach-automation) | End-to-end n8n workflow that turns a company name into a fully researched, personalized outreach message — automating multi-source company research, founder profiling, and social enrichment across X, Facebook, Instagram, company websites, and LinkedIn (company + founder), then syncing everything straight to Google Sheets. |
 | [Advanced RAG Pipeline](https://github.com/himanihassija/advanced-rag-bigquery-hyde-stepback) | Production-grade retrieval pipeline combining HyDE and Step-Back prompting with BigQuery Vector Search and Gemini on Vertex AI for sharper, more relevant answers on complex queries. |
 | [Gemini Browser Agent](https://github.com/himanihassija/gemini-browser-ai-agent)              | Autonomous browser agent that reads, reasons over, and acts on live web pages in real time, powered by Gemini. |
 | [AI Course Generation System](https://github.com/himanihassija)                               | Multi-agent pipeline (research → evaluation → content agents) that autonomously turns any topic into a structured, ready-to-teach course. |
-| [B2B Job Signal Scraper](https://github.com/himanihassija/B2B-Job-Signal-Scraper)             | Turns live hiring activity into sales-ready leads — scrapes 40+ job titles across LinkedIn, Adzuna & Reed, deduplicates automatically, and syncs qualified leads straight to Google Sheets. |
+| [B2B Job Signal Scraper](https://github.com/himanihassija/B2B-Job-Signal-Scraper)             | Turns live hiring activity into sales-ready leads — scrapes 40+ job titles across LinkedIn, Reed, and Adzuna's API (which aggregates listings from Indeed, Glassdoor, Naukri, and various other portals), deduplicates automatically, and syncs qualified leads straight to Google Sheets. |
 
 ---
 

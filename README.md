@@ -3,7 +3,7 @@
 **CS + Data Science student working at the intersection of agentic AI, automation, and governance**
 B.Tech CSE @ MDU · B.S. Data Science @ IIT Madras · Delhi, India
 
-📧 himanihassija@gmail.com · [💼 LinkedIn](https://www.linkedin.com/in/himani-hassija-116b46324/) · [🐙 GitHub](https://github.com/himanihassija)
+📧 himanihassija@gmail.com · [💼 LinkedIn](https://www.linkedin.com/in/himani-hassija-116b46324/) 
 
 ---
 

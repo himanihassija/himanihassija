@@ -1,4 +1,4 @@
-# Hi, I'm Himani Hassija
+#                                                                    Hi, I'm Himani Hassija
 
 **CS + Data Science student building AI agents, RAG pipelines, and automation systems**
 B.Tech CSE @ MDU · B.S. Data Science @ IIT Madras · Delhi, India

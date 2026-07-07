@@ -1,9 +1,9 @@
-#                                                                    Hi, I'm Himani Hassija
+# Hi, I'm Himani Hassija
 
 **CS + Data Science student building AI agents, RAG pipelines, and automation systems**
 B.Tech CSE @ MDU · B.S. Data Science @ IIT Madras · Delhi, India
 
-[📧 Email](mailto:himanihassija@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/himani-hassija-116b46324/) · [🐙 GitHub](https://github.com/himanihassija)
+📧 himanihassija@gmail.com · [💼 LinkedIn](https://www.linkedin.com/in/himani-hassija-116b46324/)
 
 ---
 
@@ -19,13 +19,13 @@ Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines th
 
 | Project                                                                                       | What it does                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Delhi's Digital Twin](https://github.com/himanihassija/delhi-digital-twin)                   | Multi-agent AI simulating 1000 citizen agents across 8 archetypes to model transport policy impact in <60s.                                                  |
-| [A2A Supply Chain Agents](https://github.com/himanihassija/A2A-supply-chain-agents)           | Autonomous multi-agent supply chain system on Google's A2A protocol — a Vision Agent verifies counts via code execution, a Supplier Agent runs vector similarity search, and they discover/call each other dynamically via agent cards. Fully local & free (Gemini API + PostgreSQL/pgvector). |
-| [AI Research & Outreach Automation](https://github.com/himanihassija/ai-research-and-outreach-automation) | End-to-end n8n workflow for multi-source company research, founder profiling, social enrichment, and AI-generated outreach, synced to Google Sheets.        |
-| [Advanced RAG Pipeline](https://github.com/himanihassija/advanced-rag-bigquery-hyde-stepback) | RAG pipeline with HyDE & Step-Back prompting, BigQuery Vector Search, and Gemini on Vertex AI.                                                               |
-| [Gemini Browser Agent](https://github.com/himanihassija/gemini-browser-ai-agent)              | Autonomous browser agent powered by Gemini that navigates and reasons over live web content.                                                                 |
-| [AI Course Generation System](https://github.com/himanihassija)                               | Multi-agent system (research → evaluation → content agents) that autonomously generates structured courses on any topic.                                     |
-| [B2B Job Signal Scraper](https://github.com/himanihassija/B2B-Job-Signal-Scraper)             | Scrapes 40+ job titles across LinkedIn, Adzuna & Reed to turn hiring signals into ready-to-work B2B sales leads, with dedup and optional Google Sheets sync. |
+| [Delhi's Digital Twin](https://github.com/himanihassija/delhi-digital-twin)                   | Multi-agent urban simulation modeling 1,000 citizen agents across 8 behavioral archetypes — compresses transport policy impact studies that normally take **18–24 months** into results in **under 60 seconds**. Top 29 teams nationally. |
+| [A2A Supply Chain Agents](https://github.com/himanihassija/A2A-supply-chain-agents)           | Fully autonomous, cloud-free multi-agent supply chain system built on Google's A2A protocol — a Vision Agent verifies inventory counts via live code execution while a Supplier Agent runs vector similarity search over live stock, and the two dynamically discover and call each other through agent cards. Runs entirely on-device with Gemini + PostgreSQL/pgvector. |
+| [AI Research & Outreach Automation](https://github.com/himanihassija/ai-research-and-outreach-automation) | End-to-end n8n workflow that turns a company name into a fully researched, personalized outreach message — automating multi-source company research, founder profiling, and social enrichment, then syncing everything straight to Google Sheets. |
+| [Advanced RAG Pipeline](https://github.com/himanihassija/advanced-rag-bigquery-hyde-stepback) | Production-grade retrieval pipeline combining HyDE and Step-Back prompting with BigQuery Vector Search and Gemini on Vertex AI for sharper, more relevant answers on complex queries. |
+| [Gemini Browser Agent](https://github.com/himanihassija/gemini-browser-ai-agent)              | Autonomous browser agent that reads, reasons over, and acts on live web pages in real time, powered by Gemini. |
+| [AI Course Generation System](https://github.com/himanihassija)                               | Multi-agent pipeline (research → evaluation → content agents) that autonomously turns any topic into a structured, ready-to-teach course. |
+| [B2B Job Signal Scraper](https://github.com/himanihassija/B2B-Job-Signal-Scraper)             | Turns live hiring activity into sales-ready leads — scrapes 40+ job titles across LinkedIn, Adzuna & Reed, deduplicates automatically, and syncs qualified leads straight to Google Sheets. |
 
 ---
 
@@ -47,4 +47,8 @@ Currently a **GTM Engineering Intern at Growzle**, where I build AI pipelines th
 
 ---
 
+<div align="center">
+
 *Always open to collaborating on AI/automation projects or interesting open source work.*
+
+</div>
